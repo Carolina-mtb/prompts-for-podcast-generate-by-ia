@@ -1,0 +1,66 @@
+Olá, humano! Sou um chatbot de IA alimentado pelo GPT-4o mini. Fique à vontade para me fazer todas as perguntas que quiser!
+Você é um roteirista de podcast, e vamos criar um podcast de autoajuda, focado em chacras e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de chacras feito por especialista em autoajuda e energia
+
+O podcast vai falar sobre dicas de práticas diárias sobre o equilíbrio dos chacras
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize termos gratiluz, gratilover
+Claro! Aqui estão cinco sugestões de nomes criativos para o seu podcast de autoajuda focado em chacras: 
+1. Harmonia Interior
+Práticas diárias para equilibrar seus chacras
+
+2. Caminho dos Chacras
+Descubra o poder da energia em sua vida
+
+3. Equilíbrio Vital
+Dicas para alinhar seus chacras e sua energia
+
+4. Chacras em Sintonia
+Transforme sua rotina com práticas energéticas
+
+5. Energia em Fluxo
+Conecte-se e equilibre seus chacras diariamente
+
+Espero que goste das sugestões! Se precisar de mais ajuda, estou aqui!
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de autoajuda, focado em chacras cujo o nome é "Harmonia Interior - Práticas diárias para equilibrar seus chacras" e tem foco em equilíbrio energético, com o público alvo entusiastas por conhecimentos sobre energia. 
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[PRÁTICA 1]
+[PRÁTICA 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do Instagram '@mana.centre', como se fossem escritos pela Paulina Hupe
+- no bloco [PRÁTICA 1] substitua por uma prática diária rápida de energização dos chacras
+- no bloco [PRÁTICA 2] sobre prática rápida de equilíbrio dos chacras
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Carolina e esse foi o Harmonia Interior dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Carolina
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+Harmonia Interior - Práticas diárias para equilibrar seus chacras 
+[INTRODUÇÃO]
+Olá, pessoal! Aqui é a Carolina, e hoje vamos falar sobre como podemos trazer mais equilíbrio e energia para nossas vidas através dos chacras. Você sabia que esses centros de energia estão sempre interagindo com o nosso corpo e mente? Vamos juntos descobrir práticas simples que podem nos ajudar a harmonizar essa energia e nos sentirmos mais conectados. Então, respire fundo e venha comigo nessa jornada!
+
+[PRÁTICA 1: Energização dos Chacras]
+Vamos começar com uma prática rápida de energização dos chacras. Encontre um lugar tranquilo onde você possa se sentar confortavelmente. Feche os olhos e respire profundamente. Agora, visualize uma luz brilhante na base da sua coluna, onde está o chacra raiz. Imagine essa luz se expandindo, preenchendo todo o seu corpo com uma energia vibrante.
+
+Depois, suba a visualização para o chacra sacral, logo abaixo do seu umbigo, e veja essa luz laranja se intensificando. Continue subindo, passando pelo chacra do plexo solar, coração, garganta, terceiro olho e, finalmente, o chacra coronário no topo da cabeça. Sinta cada um deles sendo energizado e equilibrado. Faça isso por cerca de 2 minutos, respirando profundamente e permitindo que essa energia flua livremente.
+
+[PRÁTICA 2: Equilíbrio dos Chacras]
+Agora, vamos para uma prática rápida de equilíbrio. Para isso, você vai precisar de um cristal ou uma pedra que ressoe com você. Pode ser um quartzo rosa para o coração ou uma ametista para o terceiro olho. Segure a pedra em suas mãos e feche os olhos novamente.
+
+Concentre-se na sua respiração e visualize a energia da pedra se conectando com o seu chacra correspondente. Sinta a vibração da pedra equilibrando e harmonizando a energia desse chacra. Permita que essa sensação de equilíbrio se espalhe por todo o seu corpo. Faça isso por cerca de 3 minutos, mantendo a intenção de que todos os seus chacras estejam em harmonia.
+
+[FINALIZAÇÃO]
+E aí, como você se sentiu? Espero que essas práticas tenham trazido um pouco mais de luz e equilíbrio para o seu dia! Lembre-se de que cuidar dos seus chacras é um ato de amor próprio. Eu sou Carolina e esse foi o Harmonia Interior dessa semana. Até a próxima!
